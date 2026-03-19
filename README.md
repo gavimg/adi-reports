@@ -1,10 +1,10 @@
-# Gadagi Reports - Analytics Micro-frontend
+# ADI Reports - Analytics Micro-frontend
 
-A dedicated micro-frontend for reporting, analytics, and data visualization within the Gadagi platform architecture.
+A dedicated micro-frontend for reporting, analytics, and data visualization within the ADI platform architecture.
 
 ## Overview
 
-Gadagi Reports is a remote micro-frontend that provides comprehensive reporting capabilities, data visualization, and analytics features. It's designed to be loaded dynamically by the Gadagi Host application using Webpack Module Federation.
+ADI Reports is a remote micro-frontend that provides comprehensive reporting capabilities, data visualization, and analytics features. It's designed to be loaded dynamically by the ADI Host application using Webpack Module Federation.
 
 ## Features
 
@@ -19,7 +19,7 @@ Gadagi Reports is a remote micro-frontend that provides comprehensive reporting 
 
 ```
 ┌─────────────────────────────────────┐
-│            Gadagi Reports              │
+│            ADI Reports              │
 │  ┌─────────────┬─────────────────┐  │
 │  │ Dashboard   │ Chart Library   │  │
 │  │ - KPIs      │ - Bar Charts    │  │
@@ -626,4 +626,4 @@ npm run preview
 
 ## License
 
-MIT © Gadagi Team
+MIT © ADI Team
