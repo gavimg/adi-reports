@@ -1,0 +1,13 @@
+.reports-app {
+  padding: 2rem;
+  background: #f0fdf4;
+  min-height: 100vh;
+}
+
+.reports-app__title {
+  margin: 0 0 0.5rem;
+}
+
+.reports-app__description {
+  margin: 0;
+}

@@ -1,10 +1,11 @@
 import React from 'react';
+import './ReportsApp.css';
 
 const ReportsApp: React.FC = () => {
   return (
-    <div style={{ padding: '2rem', background: '#f0fdf4', minHeight: '100vh' }}>
-      <h1>Reports Module</h1>
-      <p>This is the adi-reports micro-frontend.</p>
+    <div className="reports-app">
+      <h1 className="reports-app__title">Reports Module</h1>
+      <p className="reports-app__description">This is the adi-reports micro-frontend.</p>
     </div>
   );
 };
