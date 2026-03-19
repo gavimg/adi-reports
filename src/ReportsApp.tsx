@@ -1,5 +1,5 @@
 import React from 'react';
-import './ReportsApp.css';
+import './ReportsApp.scss';
 
 const ReportsApp: React.FC = () => {
   return (
